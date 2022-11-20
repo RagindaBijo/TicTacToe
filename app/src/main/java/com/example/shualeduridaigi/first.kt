@@ -56,7 +56,7 @@ class first : AppCompatActivity(),View.OnClickListener{
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_first)
-
+        supportActionBar?.hide()
 
         init()
 
