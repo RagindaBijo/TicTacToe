@@ -14,6 +14,18 @@ import android.widget.Toast
 
 
 class first : AppCompatActivity(),View.OnClickListener{
+
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+    // Pixel_3a
+
+
+
     private lateinit var btn1:Button
     private lateinit var btn2:Button
     private lateinit var btn3:Button
@@ -71,7 +83,7 @@ class first : AppCompatActivity(),View.OnClickListener{
         btn8 = findViewById(R.id.button8)
         btn9 = findViewById(R.id.button9)
         resetButton=findViewById(R.id.button10)
-        textView1=findViewById(R.id.textview1)
+
 
 
         val resultFirst=intent.extras?.getString("firstPlayer")

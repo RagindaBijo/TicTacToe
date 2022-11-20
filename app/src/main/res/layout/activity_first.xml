@@ -234,18 +234,7 @@
 
 
 
-    <TextView
-        android:id="@+id/textview1"
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="-40dp"
-        android:textColor="@color/white"
-        android:text=""
-        android:textStyle="bold"
-        android:textSize="30dp"
-        android:layout_gravity="center"
-        android:gravity="center"/>
+
 
 
 
@@ -256,7 +245,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/orange"
         android:text="Reset"
-        android:layout_margin="50dp"
+        android:layout_margin="70dp"
         android:textSize="30dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"

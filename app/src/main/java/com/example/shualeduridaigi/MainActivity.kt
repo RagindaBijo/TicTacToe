@@ -16,7 +16,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+
+
         supportActionBar?.hide()
+
 
         val text1=findViewById<EditText>(R.id.editText1)
         val text2=findViewById<EditText>(R.id.editText2)

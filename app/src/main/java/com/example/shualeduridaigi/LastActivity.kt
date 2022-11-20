@@ -15,6 +15,20 @@ class LastActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_last)
+        supportActionBar?.hide()
+
+
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+        // Pixel_3a
+
+
+
 
         val resultWinner=intent.extras?.getString("winnerPlayer")
         val resultFirst=intent.extras?.getString("firstPlayer")
